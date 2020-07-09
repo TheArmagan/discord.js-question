@@ -1,0 +1,19 @@
+{
+  "name": "discord.js-question",
+  "version": "0.0.9",
+  "description": "A Easy to use discord.js question library.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord.js",
+    "question"
+  ],
+  "author": "Kıraç Armağan Önal",
+  "license": "Apache-2.0"
+}
